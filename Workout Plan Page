@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workout Plan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        img {
+            max-width: 200px;
+        }
+        .exercise-description {
+            margin-bottom: 20px;
+            background-color: #ffffff;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+
+
+
+<h1>Workout Plan</h1>
+
+<h2>Chest Exercises</h2>
+<div class="exercise-description">
+    <strong>Dumbbell Bench Press</strong>
+    <p>This exercise focuses on the pectoral muscles. Perform 3 sets of 8-10 reps.</p>
+    <img src="path/to/dumbbell_bench_press.jpg" alt="Dumbbell Bench Press">
+</div>
+
+<div class="exercise-description">
+    <strong>Incline Bench Press</strong>
+    <p>Targets the upper portion of the pectoral muscles. Aim for 3 sets of 8 reps.</p>
+    <img src="path/to/incline_bench_press.jpg" alt="Incline Bench Press">
+</div>
+
+<div class="exercise-description">
+    <strong>Dips</strong>
+    <p>Great for both the lower pecs and triceps. Do 3 sets to failure.</p>
+    <img src="path/to/dips.jpg" alt="Dips">
+</div>
+
+<div class="exercise-description">
+    <strong>Cable Flys</strong>
+    <p>Isolates the chest muscles, giving a good stretch. Perform 3 sets of 12 reps.</p>
+    <img src="path/to/cable_flys.jpg" alt="Cable Flys">
+</div>
+
+<h2>Back Exercises</h2>
+<div class="exercise-description">
+    <strong>Lat Pulldown</strong>
+    <p>This targets the broadest muscle in the back. Aim for 3 sets of 10 reps.</p>
+    <img src="path/to/lat_pulldown.jpg" alt="Lat Pulldown">
+</div>
+
+<div class="exercise-description">
+    <strong>Low Row</strong>
+    <p>Engages the middle and lower trapezius. Recommended 3 sets of 8 reps.</p>
+    <img src="path/to/low_row.jpg" alt="Low Row">
+</div>
+
+<div class="exercise-description">
+    <strong>Pullups</strong>
+    <p>An excellent compound movement for the back. Do as many as you can for 3 sets.</p>
+    <img src="path/to/pullups.jpg" alt="Pullups">
+</div>
+
+<h2>Shoulder Exercises</h2>
+<div class="exercise-description">
+    <strong>Shoulder Press with Dumbbell Seated</strong>
+    <p>Focuses on the entire shoulder region. Try 3 sets of 8 reps.</p>
+    <img src="path/to/shoulder_press.jpg" alt="Shoulder Press with Dumbbell Seated">
+</div>
+
+<div class="exercise-description">
+    <strong>Lateral Raise with Dumbbell</strong>
+    <p>Isolates the lateral deltoid. Perform 3 sets of 12 reps.</p>
+    <img src="path/to/lateral_raise.jpg" alt="Lateral Raise with Dumbbell">
+</div>
+
+<div class="exercise-description">
+    <strong>Machine Lateral Raise</strong>
+    <p>A machine variant that targets the side delts. Do 3 sets of 10 reps.</p>
+    <img src="path/to/machine_lateral_raise.jpg" alt="Machine Lateral Raise">
+</div>
+
+
+<h2>Biceps</h2>
+<div class="exercise-description">
+    <strong>Barbell Curl</strong>
+    <p>This classic biceps exercise targets the biceps brachii. Aim for 3 sets of 10 reps.</p>
+    <img src="path/to/barbell_curl.jpg" alt="Barbell Curl">
+</div>
+
+<div class="exercise-description">
+    <strong>Hammer Curl</strong>
+    <p>A variation that also targets the brachialis, giving the arm a fuller look. Perform 3 sets of 10 reps.</p>
+    <img src="path/to/hammer_curl.jpg" alt="Hammer Curl">
+</div>
+
+<div class="exercise-description">
+    <strong>Seated Incline Curl</strong>
+    <p>This curl variation emphasizes the long head of the biceps. Do 3 sets of 8 reps.</p>
+    <img src="path/to/seated_incline_curl.jpg" alt="Seated Incline Curl">
+</div>
+
+<h2>Triceps</h2>
+<div class="exercise-description">
+    <strong>Tricep Pushdown</strong>
+    <p>This exercise isolates the triceps, especially the lateral head. Perform 3 sets of 12 reps.</p>
+    <img src="path/to/tricep_pushdown.jpg" alt="Tricep Pushdown">
+</div>
+
+<div class="exercise-description">
+    <strong>Skull Crusher</strong>
+    <p>A powerful exercise for the triceps, especially the long head. Aim for 3 sets of 10 reps.</p>
+    <img src="path/to/skull_crusher.jpg" alt="Skull Crusher">
+</div>
+
+<div class="exercise-description">
+    <strong>Overhead Tricep</strong>
+    <p>Emphasizes the long head of the triceps, giving a full tricep development. Do 3 sets of 10 reps.</p>
+    <img src="path/to/overhead_tricep.jpg" alt="Overhead Tricep">
+</div>
+
+</body>
+</html>

@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gym Bulk Meal Plan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 20px;
+        }
+
+        button {
+            padding: 10px 15px;
+            margin: 5px;
+            border: none;
+            background-color: #3498db;
+            color: white;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        button:hover {
+            background-color: #2980b9;
+        }
+
+        .meal-plan {
+            display: none;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+
+        img {
+            max-width: 150px;
+            margin-right: 10px;
+            border-radius: 5px;
+        }
+
+        .meal-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .meal-description {
+            flex: 1;
+        }
+    </style>
+</head>
+
+<body>
+
+    <button onclick="showPlan('day1')">Day 1</button>
+    <button onclick="showPlan('day2')">Day 2</button>
+    <button onclick="showPlan('day3')">Day 3</button>
+    <button onclick="showPlan('day4')">Day 4</button>
+    <button onclick="showPlan('day5')">Day 5</button>
+
+    <!-- Day 1 Meals -->
+    <div class="meal-plan" id="day1">
+        <!-- ... Your Day 1 meals as provided above ... -->
+    </div>
+
+    <!-- Day 2 Meals -->
+    <div class="meal-plan" id="day2">
+        <!-- ... Your Day 2 meals as provided above ... -->
+    </div>
+
+    <!-- Day 3 Meals -->
+    <div class="meal-plan" id="day3">
+        <!-- Breakfast for Day 3 -->
+        <div class="meal-item">
+            <img src="path/to/breakfast3.jpg" alt="Breakfast for Day 3">
+            <div class="meal-description">
+                <strong>Breakfast:</strong> Omelette with Spinach and Feta<br>
+                Protein-packed with a touch of greens and cheese. Approximately 400 calories.
+            </div>
+        </div>
+
+        <!-- Lunch for Day 3 -->
+        <div class="meal-item">
+            <img src="path/to/lunch3.jpg" alt="Lunch for Day 3">
+            <div class="meal-description">
+                <strong>Lunch:</strong> Turkey and Avocado Wrap<br>
+                A lean protein source with healthy fats. Approximately 550 calories.
+            </div>
+        </div>
+
+        <!-- Snack for Day 3 -->
+        <div class="meal-item">
+            <img src="path/to/snack3.jpg" alt="Snack for Day 3">
+            <div class="meal-description">
+                <strong>Snack:</strong> Protein Bar<br>
+                Quick protein source for on-the-go. Approximately 250 calories.
+            </div>
+        </div>
+
+        <!-- Dinner for Day 3 -->
+        <div class="meal-item">
+            <img src="path/to/dinner3.jpg" alt="Dinner for Day 3">
+            <div class="meal-description">
+                <strong>Dinner:</strong> Salmon with Asparagus and Quinoa<br>
+                Balanced omega-3s, greens, and grains. Approximately 650 calories.
+            </div>
+        </div>
+    </div>
+
+    <!-- Day 4 Meals -->
+    <div class="meal-plan" id="day4">
+        <!-- Breakfast for Day 4 -->
+        <div class="meal-item">
+            <img src="path/to/breakfast4.jpg" alt="Breakfast for Day 4">
+            <div class="meal-description">
+                <strong>Breakfast:</strong> Protein Smoothie with Berries<br>
+                Quick and nutritious start to the day. Approximately 300 calories.
+            </div>
+        </div>
+
+        <!-- Lunch for Day 4 -->
+        <div class="meal-item">
+            <img src="path/to/lunch4.jpg" alt="Lunch for Day 4">
+            <div class="meal-description">
+                <strong>Lunch:</strong> Beef Stir-Fry with Vegetables<br>
+                Lean protein with a mix of colorful veggies. Approximately 600 calories.
+            </div>
+        </div>
+
+        <!-- Snack for Day 4 -->
+        <div class="meal-item">
+            <img src="path/to/snack4.jpg" alt="Snack for Day 4">
+            <div class="meal-description">
+                <strong>Snack:</strong> Cottage Cheese with Pineapple<br>
+                Creamy protein source with a touch of sweetness. Approximately 200 calories.
+            </div>
+        </div>
+
+        <!-- Dinner for Day 4 -->
+        <div class="meal-item">
+            <img src="path/to/dinner4.jpg" alt="Dinner for Day 4">
+            <div class="meal-description">
+                <strong>Dinner:</strong> Chicken Alfredo Pasta<br>
+                Comforting carbs with a creamy sauce. Approximately 700 calories.
+            </div>
+        </div>
+    </div>
+
+    <!-- Day 5 Meals -->
+    <div class="meal-plan" id="day5">
+        <!-- Breakfast for Day 5 -->
+        <div class="meal-item">
+            <img src="path/to/breakfast5.jpg" alt="Breakfast for Day 5">
+            <div class="meal-description">
+                <strong>Breakfast:</strong> Granola with Almond Milk<br>
+                Crunchy start with nutty flavors. Approximately 350 calories.
+            </div>
+        </div>
+
+        <!-- Lunch for Day 5 -->
+        <div class="meal-item">
+            <img src="path/to/lunch5.jpg" alt="Lunch for Day 5">
+            <div class="meal-description">
+                <strong>Lunch:</strong> Caesar Salad with Grilled Chicken<br>
+                Classic salad with a protein boost. Approximately 500 calories.
+            </div>
+        </div>
+
+        <!-- Snack for Day 5 -->
+        <div class="meal-item">
+            <img src="path/to/snack5.jpg" alt="Snack for Day 5">
+            <div class="meal-description">
+                <strong>Snack:</strong> Hummus and Carrot Sticks<br>
+                A healthy dip with a crunchy side. Approximately 150 calories.
+            </div>
+        </div>
+
+        <!-- Dinner for Day 5 -->
+        <div class="meal-item">
+            <img src="path/to/dinner5.jpg" alt="Dinner for Day 5">
+            <div class="meal-description">
+                <strong>Dinner:</strong

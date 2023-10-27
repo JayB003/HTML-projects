@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detroit Lions 2023 Season</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f6f6f6;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+
+        .game {
+            border-bottom: 1px solid #eee;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+        }
+
+        .summary {
+            margin: 10px 0;
+            color: #666;
+        }
+
+        .game:last-child {
+            border-bottom: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Detroit Lions 2023 Season</h1>
+
+        <!-- Game 1 -->
+        <div class="game">
+            <h2>Game 1: Detroit Lions vs. Kansas City Chiefs</h2>
+            <img src="https://placeimg.com/640/480/sport" alt="Image from Game 1">
+            <p class="summary">To open the regular season, the Lions visited the defending Super Bowl champion Kansas City Chiefs in the annual NFL Kickoff Game. The Lions took advantage of the Chiefs not having Travis Kelce, their star tight end, due to a knee injury sustained in their practice just two days prior to this game. The Lions started off hot, scoring in the first quarter via a nine-yard touchdown pass from Jared Goff to Amon-Ra St. Brown. The Chiefs scored 14 points in the second quarter via a one-yard touchdown pass from Patrick Mahomes to Rashee Rice and a four-yard touchdown pass from Mahomes to Blake Bell, which made the score 14–7 in favor of Kansas City at half-time. The Lions responded with a 50-yard interception return by Brian Branch in the third quarter to tie the game. The Chiefs regained the lead via a 35-yard field goal by Harrison Butker. The Chiefs extended their lead in the fourth quarter via a 39-yard field goal by Butker. The Lions scored the final points of the game via an eight-yard touchdown run from David Montgomery, making the final score 21–20 in favor of Detroit. With the upset win, the Lions started the season 1–0 for the first time since 2017. They also won their first game at Arrowhead Stadium since 1988, which, coincidentally, was also won by a mere point.</p>
+        </div>
+
+        <!-- Game 2 -->
+        <div class="game">
+            <h2>Game 2: Detroit Lions vs. Seattle Seahawks</h2>
+            <img src="https://placeimg.com/640/480/sport" alt="Image from Game 2">
+            <p class="summary">In week 2, for their home opener, the Lions hosted the Seattle Seahawks. The Seahawks opened the scoring in the first quarter via a one-yard touchdown run from Kenneth Walker III. The Lions responded with a 22-yard touchdown pass from Jared Goff to Josh Reynolds to tie the game. The Lions scored the only points of the second quarter via a 36-yard touchdown pass from Goff to Kalif Raymond, which made the score 14–7 in favor of Detroit at half-time. The Seahawks scored 10 points in the third quarter via a three-yard touchdown run from Walker III and a 25-yard field goal by Jason Myers. The Lions responded with a four-yard touchdown run from David Montgomery. The Seahawks extended their lead in the fourth quarter via a three-yard touchdown pass from Geno Smith to Tyler Lockett and a 40-yard interception return by Tre Brown. The Lions responded with a four-yard touchdown pass from Goff to Reynolds and a 38-yard field goal by Riley Patterson as time expired in the game to force overtime. During overtime, the Seahawks scored via a six-yard touchdown pass from Smith to Lockett, making the final score 37–31 in favor of Seattle. With the loss, the Lions fell to 1–1. They once again failed to beat the Seahawks, not having done so since 2012.</p>
+        </div>
+
+        
+        <div class="game">
+            <h2>Game 3: Detroit Lions vs. Atlanta Falconss</h2>
+            <img src="https://placeimg.com/640/480/sport" alt="Image from Game 3">
+            <p class="summary">In week 3, the Lions hosted the Atlanta Falcons. The Lions opened the scoring in the first quarter via a 37-yard field goal by Riley Patterson. The Falcons responded with a 48-yard field goal by Younghoe Koo in the second quarter to tie the game. The Lions scored 10 points in the quarter via a 45-yard touchdown pass from Jared Goff to Sam LaPorta and a 24-yard field goal by Patterson, which made the score 13–3 in favor of Detroit at half-time. After a scoreless third quarter, the Lions extended their lead in the fourth quarter via a three-yard touchdown run from Goff. The Falcons scored the final points of the quarter via a 24-yard field goal by Koo, making the final score 20–6 in favor of Detroit. With the win, the Lions improved to 2–1.</p>
+        </div>
+
+        <div class="game">
+            <h2>Game 4: Detroit Lions vs. Green Bay Packers</h2>
+            <img src="https://placeimg.com/640/480/sport" alt="Image from Game 3">
+            <p class="summary"In week 4, the Lions visited their divisional rival, the Green Bay Packers. The Packers opened the scoring in the first quarter via a 34-yard field goal by Anders Carlson. The Lions scored 14 points via a 34-yard touchdown pass from Jared Goff to Amon-Ra St. Brown and a three-yard touchdown run from David Montgomery. The Lions scored 13 points in the second quarter via a 33-yard field goal by Riley Patterson, a two-yard touchdown run from Montgomery and a 37-yard field goal by Patterson, which made the score 27–3 in favor of Detroit at half-time. The Packers scored the only points of the third quarter via a one-yard touchdown pass from Jordan Love to Christian Watson and a two-point conversion pass from Love to Jayden Reed. The teams exchanged touchdowns in the fourth quarter, first a nine-yard touchdown run from Love for the Packers, then a one-yard touchdown run from Montgomery for the Lions. The Packers scored the final points of the game via a 50-yard field goal by Carlson, making the final score 34–20 in favor of Detroit. With the win, the Lions improved to 3–1 and extended their winning streak against the Packers to four games.</p>
+        </div>
+
+        <div class="game">
+            <h2>Game 5: Detroit Lions vs. Carolina Panthers</h2>
+            <img src="https://placeimg.com/640/480/sport" alt="Image from Game 3">
+            <p class="summary">In week 5, the Lions hosted the Carolina Panthers. The Lions scored 14 points in the first quarter via a 42-yard touchdown run from David Montgomery and a four-yard touchdown pass from Jared Goff to Sam LaPorta. In the second quarter, the Panthers responded with a one-yard touchdown pass from Bryce Young to Tommy Tremble. The Lions scored 14 points in the quarter via a one-yard touchdown pass from Goff to Josh Reynolds and a 31-yard touchdown pass from Goff to LaPorta. The Panthers scored the final points of the half via a 33-yard field goal by Eddy Piñeiro, which made the score 28–10 in favor of Detroit at half-time. After a scoreless third quarter, the Lions scored 14 points in the fourth quarter via a one-yard touchdown run from Goff and a five-yard touchdown run from Craig Reynolds. The Panthers scored 14 points in the quarter via an 18-yard touchdown pass from Young to D. J. Chark and a one-yard touchdown pass from Young to Adam Thielen, making the final score 42–24 in favor of Detroit. With the win, the Lions improved to 4–1, maintaining their spot at first place in the NFC North. This marked the first time they've won at least four of their first five games since 2011, and the fourth time in 50 seasons</p>
+        </div>
+
+
+        <div class="game">
+            <h2>Game 6: Detroit Lions vs. Tampa Bay Buccanners</h2>
+            <img src="https://placeimg.com/640/480/sport" alt="Image from Game 3">
+            <p class="summary">In week 6, the Lions visited the Tampa Bay Buccaneers. The Lions opened the scoring in the first quarter via a 30-yard field goal by Riley Patterson. The Buccaneers scored in the second quarter via a 33-yard field goal by Chase McLaughlin to tie the game. The Lions responded with a 27-yard touchdown pass from Jared Goff to Amon-Ra St. Brown, which made the score 10–3 in favor of Detroit at half-time. In the third quarter, the Buccaneers scored via a 36-yard field goal by McLaughlin. The Lions extended their lead via a 45-yard touchdown pass from Goff to Jameson Williams. The Lions scored the only points of the fourth quarter via a 36-yard field goal by Patterson, making the final score 20–6 in favor of Detroit. They are on a 13–3 streak (dating back to last season) for the first time since the 1961–1962 seasons</p>
+        </div>    
+
+        <div class="game">
+            <h2>Game 7: Detroit Lions vs. Baltimore Ravens</h2>
+            <img src="https://placeimg.com/640/480/sport" alt="Image from Game 3">
+            <p class="summary">In week 7, the Lions visited the Baltimore Ravens. The Ravens scored 14 points in the first quarter via a seven-yard touchdown run from Lamar Jackson and a 12-yard touchdown pass from Jackson to Nelson Agholor. The Ravens scored 14 points in the second quarter via an 11-yard touchdown pass from Jackson to Mark Andrews and a two-yard touchdown run from Gus Edwards, which made the score 28–0 in favor of Baltimore at half-time. The Ravens extended their lead in the third quarter via an eight-yard touchdown pass from Jackson to Andrews. The Lions finally got on the board in the fourth quarter via a 21-yard touchdown run from Jahmyr Gibbs. The Ravens scored the final points of the game via a 32-yard field goal by Justin Tucker, making the final score 38–6 in favor of Baltimore.</p>
+        </div>
+
+       
+
+    </div>
+</body>
+
+</html>

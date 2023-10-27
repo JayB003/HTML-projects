@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Trip to India</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f6f6f6;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+
+        .day {
+            border-bottom: 1px solid #eee;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+        }
+
+        .description {
+            margin: 10px 0;
+            color: #666;
+        }
+
+        .day:last-child {
+            border-bottom: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>My Trip to India</h1>
+
+        <div class="day">
+            <h2>Day 1: Arrival and Exploring Delhi</h2>
+            <img src="https://placeimg.com/640/480/any" alt="Image from Day 1">
+            <p class="description">Arrived in Delhi and explored the historical sites such as India Gate and Red Fort.</p>
+        </div>
+
+        <div class="day">
+            <h2>Day 2: The Taj Mahal</h2>
+            <img src="https://placeimg.com/640/480/any" alt="Image from Day 2">
+            <p class="description">Took a day trip to Agra and marveled at the beauty of the Taj Mahal. Also visited the Agra Fort.</p>
+        </div>
+
+        <div class="day">
+            <h2>Day 3: Jaipur Sightseeing</h2>
+            <img src="https://placeimg.com/640/480/any" alt="Image from Day 3">
+            <p class="description">Headed to the Pink City, Jaipur. Visited Hawa Mahal, City Palace, and had a thrilling elephant ride at Amber Fort.</p>
+        </div>
+
+        <div class="day">
+            <h2>Day 4: Shopping and Departure</h2>
+            <img src="https://placeimg.com/640/480/any" alt="Image from Day 4">
+            <p class="description">Went shopping in the bustling markets of Delhi. Bought souvenirs and then departed in the evening.</p>
+        </div>
+    </div>
+</body>
+
+</html>
